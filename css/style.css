@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+.container {
+    width: 1260px;
+    margin: 20px auto;
+    padding: 100px;
+}
+.container h1 {
+    font-size: 45px;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.container p {
+    font-size: 22px;
+}
